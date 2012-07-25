@@ -1,0 +1,8 @@
+main: com.p000ison.allperms.AllPermissions
+name: AllPerms
+description: Adds a inventory function to DreamZ
+author: p000ison
+version: 0.0
+commands:
+  allperm:
+    description: allperm commands.
